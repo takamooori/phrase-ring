@@ -197,6 +197,22 @@
               "key": "I only take"
             }
           ]
+        },
+        {
+          "id": "lifestyle",
+          "name": "生活・こだわり",
+          "phrases": [
+            {
+              "en": "I honestly don't wanna waste brainpower thinking about what to wear to school.",
+              "ja": "ぶっちゃけ、学校に着ていく服に頭を使いたくないんだよね。",
+              "key": "waste brainpower"
+            },
+            {
+              "en": "So I just rotate the same outfit over and over, lol.",
+              "ja": "だから同じ服を何度も着回してるだけだよ笑",
+              "key": "rotate the same outfit"
+            }
+          ]
         }
       ]
     }
