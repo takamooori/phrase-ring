@@ -1,0 +1,82 @@
+{
+  "situations": [
+    {
+      "id": "self-intro",
+      "name": "自己紹介・雑談",
+      "topics": [
+        {
+          "id": "study",
+          "name": "学業・研究",
+          "phrases": [
+            {
+              "en": "I'm in grad school doing Systems Engineering.",
+              "ja": "今、大学院でシステム工学を専攻してるんだ。",
+              "key": "I'm in grad school"
+            },
+            {
+              "en": "I mostly research autonomous mobile robots.",
+              "ja": "主に自律移動ロボットの研究をしてる。",
+              "key": "I mostly research"
+            },
+            {
+              "en": "It's basically pretty close to self-driving tech.",
+              "ja": "要は自動運転にかなり近い感じかな。",
+              "key": "pretty close to"
+            },
+            {
+              "en": "We actually build the robots ourselves and test-run them.",
+              "ja": "実際に自分たちでロボットを作って走らせてるんだ。",
+              "key": "test-run"
+            },
+            {
+              "en": "That part is super cool.",
+              "ja": "そこがかなり面白いんだよね。",
+              "key": "super cool"
+            }
+          ]
+        },
+        {
+          "id": "career",
+          "name": "就職・キャリア",
+          "phrases": [
+            {
+              "en": "As for job hunting, I'm all done!",
+              "ja": "就活はもう終わってるよ！",
+              "key": "As for"
+            },
+            {
+              "en": "I'm going to work at a semiconductor equipment manufacturer.",
+              "ja": "半導体製造装置の会社に入ることになってる。",
+              "key": "I'm going to work at"
+            },
+            {
+              "en": "It's close to home, and they have a branch in the US.",
+              "ja": "家から近いし、アメリカにも支社があるんだ。",
+              "key": "close to home"
+            },
+            {
+              "en": "So I'm aiming for an expat position.",
+              "ja": "だから駐在枠を狙ってる。",
+              "key": "aiming for"
+            },
+            {
+              "en": "I even brought it up during my interview.",
+              "ja": "面接の時にもそれを伝えたんだ。",
+              "key": "brought it up"
+            },
+            {
+              "en": "The culture seems supportive of letting people pursue what they want.",
+              "ja": "社員のやりたいことをやらせてくれる文化があるみたい。",
+              "key": "supportive of"
+            },
+            {
+              "en": "So I'm pretty excited about it!",
+              "ja": "だからかなり期待してる！",
+              "key": "excited about"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
