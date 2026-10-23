@@ -145,6 +145,58 @@
               "note": "少しマイルドに「ダメだったよ」と言いたいとき"
             }
           ]
+        },
+        {
+          "id": "training",
+          "name": "趣味・筋トレ",
+          "phrases": [
+            {
+              "en": "I actually got into weightlifting back in January of last year.",
+              "ja": "実は去年の1月から筋トレを始めたんだよね。",
+              "key": "got into",
+              "note": "weightlifting は競技の「重量挙げ」の意味にもなる。筋トレなら lifting / lifting weights / working out も自然"
+            },
+            {
+              "en": "So I've been at it for a year and 10 months now.",
+              "ja": "もう1年10か月続いてる。",
+              "key": "been at it"
+            },
+            {
+              "en": "I figured I should start while I'm still a student and have the time.",
+              "ja": "時間がある学生のうちにやるべきだなと思って始めたんだ。",
+              "key": "I figured"
+            },
+            {
+              "en": "My bench press max is 90 kg right now.",
+              "ja": "今のベンチプレスのMAXは90kg。",
+              "key": "max"
+            },
+            {
+              "en": "I'm really pushing hard to hit 100 kg by the end of this year.",
+              "ja": "今年中に100kg達成しようと、今めっちゃ頑張ってる。",
+              "key": "pushing hard to hit"
+            },
+            {
+              "en": "I don't track my diet super strictly.",
+              "ja": "食事管理はそこまでガチガチにはしてない。",
+              "key": "track my diet"
+            },
+            {
+              "en": "But I make sure to eat three meals a day and avoid staying hungry.",
+              "ja": "でも、3食しっかり食べて、空腹を作らないようにしてる。",
+              "key": "make sure to"
+            },
+            {
+              "en": "I also try to get a decent amount of protein.",
+              "ja": "あとはある程度のタンパク質を摂るくらいかな。",
+              "key": "a decent amount of"
+            },
+            {
+              "en": "As for supplements, I only take protein powder and creatine.",
+              "ja": "サプリはプロテインとクレアチンだけ。",
+              "key": "I only take"
+            }
+          ]
         }
       ]
     }
