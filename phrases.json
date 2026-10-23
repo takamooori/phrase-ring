@@ -73,6 +73,76 @@
               "en": "So I'm pretty excited about it!",
               "ja": "だからかなり期待してる！",
               "key": "excited about"
+            },
+            {
+              "en": "I actually ended up using a university recommendation.",
+              "ja": "実は学校推薦を使ったんだよね。",
+              "key": "ended up"
+            },
+            {
+              "en": "At this company, anyone can switch over to it from regular open applications.",
+              "ja": "その会社なら、誰でも自由応募から推薦に切り替えられるんだ。",
+              "key": "switch over to"
+            },
+            {
+              "en": "It doesn't really change much.",
+              "ja": "基本的には何も変わらないんだけど。",
+              "key": "doesn't really change much"
+            },
+            {
+              "en": "But it shows them how serious I am about the job.",
+              "ja": "志望度が高いことをアピールできるし、",
+              "key": "how serious I am"
+            },
+            {
+              "en": "It also lets me narrow down the work location a bit.",
+              "ja": "勤務地をある程度限定できるんだ。",
+              "key": "narrow down"
+            },
+            {
+              "en": "That was my main goal.",
+              "ja": "そこを狙ってたんだよね。",
+              "key": "main goal"
+            },
+            {
+              "en": "Without it, I could've ended up in places like Yamanashi, Miyagi, or Kumamoto.",
+              "ja": "もし推薦がなかったら、山梨とか宮城、熊本とかになる可能性もあったんだ。",
+              "key": "could've ended up"
+            },
+            {
+              "en": "That's honestly a bit terrifying!",
+              "ja": "正直ちょっと怖いよね！",
+              "key": "honestly"
+            }
+          ]
+        },
+        {
+          "id": "setback",
+          "name": "うまくいかなかった時",
+          "phrases": [
+            {
+              "en": "I didn't make the cut.",
+              "ja": "選考から漏れた。",
+              "key": "make the cut",
+              "note": "ボーダーラインを超えられなかった。一番こなれた言い方"
+            },
+            {
+              "en": "I got rejected.",
+              "ja": "落とされた（不採用だった）。",
+              "key": "got rejected",
+              "note": "直接的でストレートな言い方"
+            },
+            {
+              "en": "I didn't get in.",
+              "ja": "受からなかった（入れなかった）。",
+              "key": "get in",
+              "note": "プログラムや枠に入れなかったとき"
+            },
+            {
+              "en": "It didn't work out.",
+              "ja": "うまくいかなかった。",
+              "key": "work out",
+              "note": "少しマイルドに「ダメだったよ」と言いたいとき"
             }
           ]
         }
