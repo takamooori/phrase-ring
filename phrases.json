@@ -225,6 +225,96 @@
           ]
         }
       ]
+    },
+    {
+      "id": "expressions",
+      "name": "使える表現",
+      "topics": [
+        {
+          "id": "mood",
+          "name": "気分・状況",
+          "phrases": [
+            {
+              "en": "Don't worry, there's nothing to it.",
+              "ja": "心配しないで、全然簡単だから。",
+              "key": "there's nothing to it",
+              "note": "簡単だよ・大したことないよ"
+            },
+            {
+              "en": "He's been in a sour mood all morning.",
+              "ja": "彼、朝からずっと機嫌が悪いんだ。",
+              "key": "a sour mood",
+              "note": "不機嫌。in a sour mood の形でよく使う"
+            },
+            {
+              "en": "It's crunch time for my thesis, so I'm pretty busy.",
+              "ja": "修論の追い込み時期だから、結構忙しいんだ。",
+              "key": "crunch time",
+              "note": "締切前の追い込み・正念場"
+            },
+            {
+              "en": "I reluctantly agreed to help him move.",
+              "ja": "しぶしぶ彼の引っ越しを手伝うことにした。",
+              "key": "reluctantly",
+              "note": "しぶしぶ・気が進まないまま"
+            }
+          ]
+        },
+        {
+          "id": "flow",
+          "name": "流れ・タイミング",
+          "phrases": [
+            {
+              "en": "I thought it might rain, and sure enough, it did.",
+              "ja": "雨が降りそうだと思ってたら、案の定降ってきた。",
+              "key": "sure enough",
+              "note": "案の定・予想どおり"
+            },
+            {
+              "en": "At this point, I just want to get it done.",
+              "ja": "ここまで来たら、とにかく終わらせたい。",
+              "key": "At this point",
+              "note": "今の段階では・ここまで来ると"
+            },
+            {
+              "en": "It's not hard. If anything, it's too easy.",
+              "ja": "難しくないよ。むしろ簡単すぎるくらい。",
+              "key": "If anything",
+              "note": "むしろ（直前の内容と逆の方向を言う）"
+            },
+            {
+              "en": "In the end, we decided to stay home.",
+              "ja": "結局、家にいることにした。",
+              "key": "In the end",
+              "note": "結局・最終的に。at the end of 〜（〜の終わりに）とは別"
+            },
+            {
+              "en": "I go to the movies once in a while.",
+              "ja": "たまに映画を観に行くよ。",
+              "key": "once in a while",
+              "note": "たまに（sometimes より頻度が低め）"
+            },
+            {
+              "en": "All of a sudden, the Wi-Fi stopped working.",
+              "ja": "急にWi-Fiがつながらなくなった。",
+              "key": "All of a sudden",
+              "note": "突然・いきなり（suddenly より口語的）"
+            },
+            {
+              "en": "The train's delayed. In the meantime, let's grab a coffee.",
+              "ja": "電車が遅れてるから、その間にコーヒーでも買おう。",
+              "key": "In the meantime",
+              "note": "その間に・それまでの間"
+            },
+            {
+              "en": "Let's eat out for a change.",
+              "ja": "たまには気分を変えて外食しよう。",
+              "key": "for a change",
+              "note": "気分転換に・たまには"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
