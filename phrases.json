@@ -5,6 +5,49 @@
       "name": "自己紹介・雑談",
       "topics": [
         {
+          "id": "catchup",
+          "name": "久しぶり・近況",
+          "phrases": [
+            {
+              "en": "Long time no see!",
+              "ja": "久しぶりだねー！",
+              "key": "Long time no see"
+            },
+            {
+              "en": "Sorry I had to miss out.",
+              "ja": "行けなくてごめんね！",
+              "key": "miss out",
+              "note": "miss out：参加できずに逃す"
+            },
+            {
+              "en": "The timing just didn't line up.",
+              "ja": "タイミングが合わなくて。",
+              "key": "didn't line up"
+            },
+            {
+              "en": "I had TA work, my thesis, and the competition all going on.",
+              "ja": "TAの仕事とか修論、大会が重なってて。",
+              "key": "all going on"
+            },
+            {
+              "en": "Honestly, I have zero motivation for my thesis...",
+              "ja": "正直、修論へのやる気がマジでゼロなんだよね…",
+              "key": "zero motivation"
+            },
+            {
+              "en": "I mean, I'm sure I'll manage.",
+              "ja": "まあ、なんとかなるとは思うけど、",
+              "key": "I'll manage"
+            },
+            {
+              "en": "But at the same time, I'm kinda screwed, lol.",
+              "ja": "とは言っても普通にヤバいよね笑",
+              "key": "kinda screwed",
+              "note": "screwed はくだけた言い方。友達同士向け"
+            }
+          ]
+        },
+        {
           "id": "study",
           "name": "学業・研究",
           "phrases": [
