@@ -358,6 +358,66 @@
           ]
         }
       ]
+    },
+    {
+      "id": "guide",
+      "name": "案内・通訳（接客）",
+      "topics": [
+        {
+          "id": "reception",
+          "name": "受付・チケット",
+          "phrases": [
+            {
+              "en": "If you have a QR code, please scan it here.",
+              "ja": "QRコードをお持ちの方は、こちらでスキャンしてください。",
+              "key": "scan it here",
+              "note": "短く：Please scan your QR code here.／スキャナーを指さして \"Please scan here.\" だけでも通じる"
+            },
+            {
+              "en": "If you haven't registered, please scan this QR code to buy your ticket online.",
+              "ja": "未登録の方は、こちらのQRコードからウェブサイトで購入してください。",
+              "key": "If you haven't registered",
+              "note": "短く：If you don't have one, please scan here to buy online."
+            },
+            {
+              "en": "Do you have a credit card?",
+              "ja": "クレジットカードはお持ちですか？",
+              "key": "credit card",
+              "note": "丁寧に：Will you be paying by credit card?（カードでお支払いですか？）"
+            },
+            {
+              "en": "You can also pay with cash here.",
+              "ja": "こちらで現金でも購入できます。",
+              "key": "pay with cash",
+              "note": "丁寧に：Cash is also accepted here if needed.／「一応」は訳さずシンプルに言う方が伝わる"
+            }
+          ]
+        },
+        {
+          "id": "assist",
+          "name": "案内・対応",
+          "phrases": [
+            {
+              "en": "Right this way, please.",
+              "ja": "こちらへどうぞ（ご案内します）。",
+              "key": "Right this way",
+              "note": "短く：Follow me, please.／笑顔で言って歩き出すのがスマート"
+            },
+            {
+              "en": "Is there anything I can help you with?",
+              "ja": "何かお手伝いできることはありますか？",
+              "key": "anything I can help you with",
+              "note": "短く：How can I help you?"
+            },
+            {
+              "en": "Could I get your business card, please?",
+              "ja": "名刺をいただけますでしょうか。",
+              "key": "business card",
+              "note": "短く：May I have your business card?"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
