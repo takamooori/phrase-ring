@@ -48,6 +48,77 @@
           ]
         },
         {
+          "id": "health",
+          "name": "体調",
+          "phrases": [
+            {
+              "en": "I feel like my body has been completely out of whack lately.",
+              "ja": "最近、体の調子がマジでおかしい気がする。",
+              "key": "out of whack",
+              "note": "out of whack：調子が狂っている"
+            },
+            {
+              "en": "I think I told you I caught a cold about a month ago.",
+              "ja": "1か月くらい前に風邪ひいたって言ったっけ。",
+              "key": "I think I told you"
+            },
+            {
+              "en": "Then I went to karaoke the next day and totally blew out my voice.",
+              "ja": "で、次の日カラオケ行って声を完全につぶしちゃってさ。",
+              "key": "blew out my voice"
+            },
+            {
+              "en": "My voice was dead for like 10 days.",
+              "ja": "10日くらい声が死んでた。",
+              "key": "for like",
+              "note": "for like 〜：〜くらい（口語）"
+            },
+            {
+              "en": "It's mostly back now, though I still have a lingering cough.",
+              "ja": "今はだいぶ戻ったけど、まだ咳が残ってる。",
+              "key": "lingering cough",
+              "note": "lingering：長引く・なかなか治らない"
+            },
+            {
+              "en": "And on top of that, I broke out in hives like three days ago.",
+              "ja": "しかもその上、3日前くらいにじんましんが出てさ。",
+              "key": "broke out in hives",
+              "note": "break out in 〜：（発疹などが）出る"
+            },
+            {
+              "en": "My whole body is super itchy.",
+              "ja": "全身めっちゃかゆい。",
+              "key": "super itchy"
+            },
+            {
+              "en": "Hives pop up wherever I scratch.",
+              "ja": "かいたところに全部じんましんが出てくる。",
+              "key": "pop up"
+            },
+            {
+              "en": "Ugh, I hate having such a weak immune system.",
+              "ja": "うわー、免疫弱いのほんと嫌だわ。",
+              "key": "weak immune system"
+            },
+            {
+              "en": "Hey, why the heck are you trying to avoid me?!",
+              "ja": "ちょっと、なんで避けようとしてんの！？",
+              "key": "why the heck"
+            },
+            {
+              "en": "Hives aren't contagious or anything!",
+              "ja": "じんましんはうつったりしないから！",
+              "key": "contagious"
+            },
+            {
+              "en": "How dare you, mannnn 😂",
+              "ja": "ひどいなぁ、もう😂",
+              "key": "How dare you",
+              "note": "冗談っぽく言うときの使い方。本気だと「よくもそんなことを」とかなり強い"
+            }
+          ]
+        },
+        {
           "id": "study",
           "name": "学業・研究",
           "phrases": [
@@ -248,6 +319,54 @@
               "en": "But I feel like it gives me that extra push for the last couple of reps.",
               "ja": "最後の数レップでの粘りが強くなってる気はするよ。",
               "key": "extra push"
+            },
+            {
+              "en": "Oh, totally unrelated, but...",
+              "ja": "あ、全然関係ないんだけど…",
+              "key": "totally unrelated",
+              "note": "話題を変えるときの前置き"
+            },
+            {
+              "en": "I tried hitting a 100kg bench press like two days ago and failed.",
+              "ja": "2日前くらいにベンチ100kgに挑戦して、失敗した。",
+              "key": "tried hitting"
+            },
+            {
+              "en": "I got it up a little bit, then totally got pinned under the bar.",
+              "ja": "ちょっとは上がったけど、そのままバーに潰された。",
+              "key": "got pinned",
+              "note": "pinned：押さえつけられて動けない"
+            },
+            {
+              "en": "I really hope I can hit it before the end of the year.",
+              "ja": "年内に挙げられるといいなぁ。",
+              "key": "before the end of the year"
+            },
+            {
+              "en": "Doing bench on the Smith machine actually sounds like a good idea, though.",
+              "ja": "でも、スミスマシンでベンチやるのは確かにアリかも。",
+              "key": "sounds like a good idea"
+            },
+            {
+              "en": "Since the bar is fixed and feels a bit lighter, I could probably hit 100kg on it.",
+              "ja": "バーが固定されてて少し軽く感じるから、それなら100kgいけそう。",
+              "key": "could probably"
+            },
+            {
+              "en": "I've been avoiding Smith machine benching.",
+              "ja": "スミスでのベンチはずっと避けてたんだよね。",
+              "key": "been avoiding"
+            },
+            {
+              "en": "People say you're supposed to press in an arc, not a straight line.",
+              "ja": "真っすぐじゃなくて、弧を描くように押すべきって言われてるから。",
+              "key": "supposed to"
+            },
+            {
+              "en": "But I'll give it a shot next time!",
+              "ja": "でも次やってみる！",
+              "key": "give it a shot",
+              "note": "give it a shot：試しにやってみる"
             }
           ]
         },
